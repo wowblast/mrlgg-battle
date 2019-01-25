@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFA.unity"
+    guid: 97fc648ad5c07b14c8fed2a46097b636
+  - enabled: 1
+    path: Assets/gameover.unity
+    guid: 49dffb6a4a8680c468eea0d53f4aae9f
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Ganador.unity
+    guid: 379b21c941314a64a8f0ce8a12a0e552
+  m_configObjects: {}

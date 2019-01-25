@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: d97bd59866df46c4d9823074cfca277d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: world/expansion02/doodads/azjol-nerub/walls/azjol_wall02
+    100004: world/expansion02/doodads/azjol-nerub/walls/azjol_wall02 1
+    100006: world/expansion02/doodads/azjol-nerub/walls/azjol_wall02_bone_0
+    400000: //RootNode
+    400002: world/expansion02/doodads/azjol-nerub/walls/azjol_wall02
+    400004: world/expansion02/doodads/azjol-nerub/walls/azjol_wall02 1
+    400006: world/expansion02/doodads/azjol-nerub/walls/azjol_wall02_bone_0
+    2100000: world_expansion02_doodads_azjol-nerub_walls_azjol_wall02_0
+    2100002: world_expansion02_doodads_azjol-nerub_walls_azjol_wall02_1
+    2100004: world_expansion02_doodads_azjol-nerub_walls_azjol_wall02_2
+    2100006: world_expansion02_doodads_azjol-nerub_walls_azjol_wall02_3
+    4300000: world/expansion02/doodads/azjol-nerub/walls/azjol_wall02
+    9500000: //RootNode
+    13700000: world/expansion02/doodads/azjol-nerub/walls/azjol_wall02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: world_expansion02_doodads_azjol-nerub_walls_azjol_wall02_0
+    second: {fileID: 2100000, guid: 2916633be1e73f3419c641a75d423128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: world_expansion02_doodads_azjol-nerub_walls_azjol_wall02_1
+    second: {fileID: 2100000, guid: b3f136ca4e0b8a84cb1d493704d294d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: world_expansion02_doodads_azjol-nerub_walls_azjol_wall02_2
+    second: {fileID: 2100000, guid: 5ca87d796ed6b214fa5925993a4e619e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: world_expansion02_doodads_azjol-nerub_walls_azjol_wall02_3
+    second: {fileID: 2100000, guid: 856cd9cebb13d34429fa079991a5abb0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jlo_azjnub_stonewall01
+    second: {fileID: 2800000, guid: ca6308aca908cd144ada5a7f44c06005, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jlo_azjnub_stonewall02
+    second: {fileID: 2800000, guid: 0f371ca00e5c5a149baeebb5dd9e7640, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jlo_azjnub_trims01
+    second: {fileID: 2800000, guid: a6da7bc7344224f4389ecff99faf89a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jlo_azjnub_trims02
+    second: {fileID: 2800000, guid: 4744c19f129bda24daae1bf75a7e76c1, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 3e6066adad8f5714a8001beb2d86c436
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01
+    100004: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01 1
+    100006: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01_bone_0
+    100008: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01_bone_1
+    100010: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01_bone_2
+    400000: //RootNode
+    400002: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01
+    400004: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01 1
+    400006: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01_bone_0
+    400008: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01_bone_1
+    400010: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01_bone_2
+    2100000: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_0
+    2100002: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_1
+    2100004: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_2
+    2100006: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_3
+    2100008: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_4
+    2100010: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_5
+    2100012: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_6
+    2100014: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_7
+    2100016: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_8
+    2100018: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_9
+    2100020: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_10
+    2100022: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_11
+    2100024: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_12
+    2100026: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_13
+    2100028: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_14
+    2100030: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_15
+    2100032: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_16
+    2100034: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_17
+    2100036: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_18
+    2100038: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_19
+    2100040: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_20
+    2100042: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_21
+    2100044: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_22
+    2100046: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_23
+    2100048: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_24
+    2100050: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_25
+    2100052: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_26
+    2100054: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_27
+    2100056: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_28
+    2100058: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_29
+    2100060: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_30
+    2100062: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_31
+    2100064: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_32
+    2100066: world_expansion07_doodads_human_8hu_warfronts_magictower_v3_doodad01_33
+    4300000: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01
+    9500000: //RootNode
+    13700000: world/expansion07/doodads/human/8hu_warfronts_magictower_v3_doodad01
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6hu_banners
+    second: {fileID: 2800000, guid: facba19be87ebde4dbba70293a967004, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6hu_garrison__greystone_06
+    second: {fileID: 2800000, guid: 99a83aab9f826ec4596719f0324cc01e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6hu_garrison_mage_filligree
+    second: {fileID: 2800000, guid: ed3c6f0c5474464408701caae75bbe8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6hu_garrison_magetent_post
+    second: {fileID: 2800000, guid: 2384168d47748ab4c8a5f0e330e97b3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6hu_garrison_strmwnd_trim_01
+    second: {fileID: 2800000, guid: e38d75f7828b1f5468c108f1dc06416e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6hu_garrison_westfall_wall_03
+    second: {fileID: 2800000, guid: 66fcb83220b638e4e91f6c3b1ab4cb02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6hu_garrison_wood_post
+    second: {fileID: 2800000, guid: 85de04967dc348e4e855caa28bf9887c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6hu_magetower_bannerlantern
+    second: {fileID: 2800000, guid: 36dfc82370455fb49bc8217cff598cd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6hu_stairs_0
+    second: {fileID: 2800000, guid: 9b508029d8f43b741b43fa10bd04e7f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dal_counter
+    second: {fileID: 2800000, guid: 409668e153283e94fa53c6ab8bce8877, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dal_floor_exterior
+    second: {fileID: 2800000, guid: 8fe371649120cd74180764fc51ea3dae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dal_inscriptionshopshelveswood
+    second: {fileID: 2800000, guid: 77aa5785e53bcb44481bcca3ff00f805, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dal_trim04
+    second: {fileID: 2800000, guid: 1ff97a6392245e44491962cf5a0432b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dk_rock_trim01_light
+    second: {fileID: 2800000, guid: 9f662d8af9c170744afdd8a2c2a65804, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: human_stoneblock
+    second: {fileID: 2800000, guid: e22d9c2665888cf41926836c7c61d725, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: inscriptionbookshelves01
+    second: {fileID: 2800000, guid: 5f4cf621e5946b346a6bef1542346a80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: inscriptionbookshelves02
+    second: {fileID: 2800000, guid: c8ad92ee1daa54a438dffc1cdb0642a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: inscriptionbookshelves03
+    second: {fileID: 2800000, guid: b9f46885ff9370246a27da0c4c006a25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kk_strmwnd_roof_03
+    second: {fileID: 2800000, guid: c9b303de9832991478f16cce1c38310c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kk_wood_floor_01
+    second: {fileID: 2800000, guid: 60a404459acff8d4b95fff3674a15753, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lt_human_wall
+    second: {fileID: 2800000, guid: 6ea46ba4b7fd8094981e46d20fe0dd17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lt_human_wall3
+    second: {fileID: 2800000, guid: 587e0deecbb83194ca4a0489b8a58330, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lt_human_window1
+    second: {fileID: 2800000, guid: 932270932c4930146ab975f4aa2d8c79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lt_human_window3_yellow
+    second: {fileID: 2800000, guid: 3a06f838d2abe064686538f36135d9c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lt_strmwnd_trim_02
+    second: {fileID: 2800000, guid: 9ec85cc8f4b190245929aec554c84c6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lt_strmwnd_wall_05
+    second: {fileID: 2800000, guid: aedf990dcaa22f04ebb0cd6991133d46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm_strmwnd_int_wall_03
+    second: {fileID: 2800000, guid: bc8afbbbf752fbe45bffdb8c431d0f7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nr_hu_fireplacestone
+    second: {fileID: 2800000, guid: 4207197f4680de04ca28294ad10626af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nr_hu_walls2
+    second: {fileID: 2800000, guid: a672ca32cad4ba64ca2c11c5d4b8a3b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nr_hu_woodtrim02
+    second: {fileID: 2800000, guid: 76345c067f7f8b544bc2b1c135d8d129, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nr_hu_woodtrim03
+    second: {fileID: 2800000, guid: e6593a9d641572d4c96910a94ee551b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woodtrim
+    second: {fileID: 2800000, guid: f54d5fe2f63d6f842a433006a505d505, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

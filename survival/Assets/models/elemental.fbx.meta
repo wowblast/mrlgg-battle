@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: 66f330898ff7a4949a6b841a9be35ff3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: creature/bloodelemental/bloodelemental
+    100002: creature/bloodelemental/bloodelemental 1
+    100004: creature/bloodelemental/bloodelemental_bone_0
+    100006: creature/bloodelemental/bloodelemental_bone_1
+    100008: creature/bloodelemental/bloodelemental_bone_10
+    100010: creature/bloodelemental/bloodelemental_bone_11
+    100012: creature/bloodelemental/bloodelemental_bone_12
+    100014: creature/bloodelemental/bloodelemental_bone_13
+    100016: creature/bloodelemental/bloodelemental_bone_14
+    100018: creature/bloodelemental/bloodelemental_bone_15
+    100020: creature/bloodelemental/bloodelemental_bone_16
+    100022: creature/bloodelemental/bloodelemental_bone_17
+    100024: creature/bloodelemental/bloodelemental_bone_18
+    100026: creature/bloodelemental/bloodelemental_bone_19
+    100028: creature/bloodelemental/bloodelemental_bone_2
+    100030: creature/bloodelemental/bloodelemental_bone_20
+    100032: creature/bloodelemental/bloodelemental_bone_21
+    100034: creature/bloodelemental/bloodelemental_bone_22
+    100036: creature/bloodelemental/bloodelemental_bone_23
+    100038: creature/bloodelemental/bloodelemental_bone_24
+    100040: creature/bloodelemental/bloodelemental_bone_25
+    100042: creature/bloodelemental/bloodelemental_bone_26
+    100044: creature/bloodelemental/bloodelemental_bone_27
+    100046: creature/bloodelemental/bloodelemental_bone_28
+    100048: creature/bloodelemental/bloodelemental_bone_29
+    100050: creature/bloodelemental/bloodelemental_bone_3
+    100052: creature/bloodelemental/bloodelemental_bone_30
+    100054: creature/bloodelemental/bloodelemental_bone_31
+    100056: creature/bloodelemental/bloodelemental_bone_32
+    100058: creature/bloodelemental/bloodelemental_bone_33
+    100060: creature/bloodelemental/bloodelemental_bone_34
+    100062: creature/bloodelemental/bloodelemental_bone_35
+    100064: creature/bloodelemental/bloodelemental_bone_36
+    100066: creature/bloodelemental/bloodelemental_bone_37
+    100068: creature/bloodelemental/bloodelemental_bone_38
+    100070: creature/bloodelemental/bloodelemental_bone_39
+    100072: creature/bloodelemental/bloodelemental_bone_4
+    100074: creature/bloodelemental/bloodelemental_bone_40
+    100076: creature/bloodelemental/bloodelemental_bone_41
+    100078: creature/bloodelemental/bloodelemental_bone_42
+    100080: creature/bloodelemental/bloodelemental_bone_43
+    100082: creature/bloodelemental/bloodelemental_bone_44
+    100084: creature/bloodelemental/bloodelemental_bone_45
+    100086: creature/bloodelemental/bloodelemental_bone_46
+    100088: creature/bloodelemental/bloodelemental_bone_47
+    100090: creature/bloodelemental/bloodelemental_bone_48
+    100092: creature/bloodelemental/bloodelemental_bone_49
+    100094: creature/bloodelemental/bloodelemental_bone_5
+    100096: creature/bloodelemental/bloodelemental_bone_50
+    100098: creature/bloodelemental/bloodelemental_bone_51
+    100100: creature/bloodelemental/bloodelemental_bone_52
+    100102: creature/bloodelemental/bloodelemental_bone_53
+    100104: creature/bloodelemental/bloodelemental_bone_54
+    100106: creature/bloodelemental/bloodelemental_bone_55
+    100108: creature/bloodelemental/bloodelemental_bone_56
+    100110: creature/bloodelemental/bloodelemental_bone_57
+    100112: creature/bloodelemental/bloodelemental_bone_58
+    100114: creature/bloodelemental/bloodelemental_bone_59
+    100116: creature/bloodelemental/bloodelemental_bone_6
+    100118: creature/bloodelemental/bloodelemental_bone_60
+    100120: creature/bloodelemental/bloodelemental_bone_61
+    100122: creature/bloodelemental/bloodelemental_bone_62
+    100124: creature/bloodelemental/bloodelemental_bone_63
+    100126: creature/bloodelemental/bloodelemental_bone_64
+    100128: creature/bloodelemental/bloodelemental_bone_65
+    100130: creature/bloodelemental/bloodelemental_bone_66
+    100132: creature/bloodelemental/bloodelemental_bone_67
+    100134: creature/bloodelemental/bloodelemental_bone_68
+    100136: creature/bloodelemental/bloodelemental_bone_69
+    100138: creature/bloodelemental/bloodelemental_bone_7
+    100140: creature/bloodelemental/bloodelemental_bone_70
+    100142: creature/bloodelemental/bloodelemental_bone_8
+    100144: creature/bloodelemental/bloodelemental_bone_9
+    100146: //RootNode
+    400000: creature/bloodelemental/bloodelemental
+    400002: creature/bloodelemental/bloodelemental 1
+    400004: creature/bloodelemental/bloodelemental_bone_0
+    400006: creature/bloodelemental/bloodelemental_bone_1
+    400008: creature/bloodelemental/bloodelemental_bone_10
+    400010: creature/bloodelemental/bloodelemental_bone_11
+    400012: creature/bloodelemental/bloodelemental_bone_12
+    400014: creature/bloodelemental/bloodelemental_bone_13
+    400016: creature/bloodelemental/bloodelemental_bone_14
+    400018: creature/bloodelemental/bloodelemental_bone_15
+    400020: creature/bloodelemental/bloodelemental_bone_16
+    400022: creature/bloodelemental/bloodelemental_bone_17
+    400024: creature/bloodelemental/bloodelemental_bone_18
+    400026: creature/bloodelemental/bloodelemental_bone_19
+    400028: creature/bloodelemental/bloodelemental_bone_2
+    400030: creature/bloodelemental/bloodelemental_bone_20
+    400032: creature/bloodelemental/bloodelemental_bone_21
+    400034: creature/bloodelemental/bloodelemental_bone_22
+    400036: creature/bloodelemental/bloodelemental_bone_23
+    400038: creature/bloodelemental/bloodelemental_bone_24
+    400040: creature/bloodelemental/bloodelemental_bone_25
+    400042: creature/bloodelemental/bloodelemental_bone_26
+    400044: creature/bloodelemental/bloodelemental_bone_27
+    400046: creature/bloodelemental/bloodelemental_bone_28
+    400048: creature/bloodelemental/bloodelemental_bone_29
+    400050: creature/bloodelemental/bloodelemental_bone_3
+    400052: creature/bloodelemental/bloodelemental_bone_30
+    400054: creature/bloodelemental/bloodelemental_bone_31
+    400056: creature/bloodelemental/bloodelemental_bone_32
+    400058: creature/bloodelemental/bloodelemental_bone_33
+    400060: creature/bloodelemental/bloodelemental_bone_34
+    400062: creature/bloodelemental/bloodelemental_bone_35
+    400064: creature/bloodelemental/bloodelemental_bone_36
+    400066: creature/bloodelemental/bloodelemental_bone_37
+    400068: creature/bloodelemental/bloodelemental_bone_38
+    400070: creature/bloodelemental/bloodelemental_bone_39
+    400072: creature/bloodelemental/bloodelemental_bone_4
+    400074: creature/bloodelemental/bloodelemental_bone_40
+    400076: creature/bloodelemental/bloodelemental_bone_41
+    400078: creature/bloodelemental/bloodelemental_bone_42
+    400080: creature/bloodelemental/bloodelemental_bone_43
+    400082: creature/bloodelemental/bloodelemental_bone_44
+    400084: creature/bloodelemental/bloodelemental_bone_45
+    400086: creature/bloodelemental/bloodelemental_bone_46
+    400088: creature/bloodelemental/bloodelemental_bone_47
+    400090: creature/bloodelemental/bloodelemental_bone_48
+    400092: creature/bloodelemental/bloodelemental_bone_49
+    400094: creature/bloodelemental/bloodelemental_bone_5
+    400096: creature/bloodelemental/bloodelemental_bone_50
+    400098: creature/bloodelemental/bloodelemental_bone_51
+    400100: creature/bloodelemental/bloodelemental_bone_52
+    400102: creature/bloodelemental/bloodelemental_bone_53
+    400104: creature/bloodelemental/bloodelemental_bone_54
+    400106: creature/bloodelemental/bloodelemental_bone_55
+    400108: creature/bloodelemental/bloodelemental_bone_56
+    400110: creature/bloodelemental/bloodelemental_bone_57
+    400112: creature/bloodelemental/bloodelemental_bone_58
+    400114: creature/bloodelemental/bloodelemental_bone_59
+    400116: creature/bloodelemental/bloodelemental_bone_6
+    400118: creature/bloodelemental/bloodelemental_bone_60
+    400120: creature/bloodelemental/bloodelemental_bone_61
+    400122: creature/bloodelemental/bloodelemental_bone_62
+    400124: creature/bloodelemental/bloodelemental_bone_63
+    400126: creature/bloodelemental/bloodelemental_bone_64
+    400128: creature/bloodelemental/bloodelemental_bone_65
+    400130: creature/bloodelemental/bloodelemental_bone_66
+    400132: creature/bloodelemental/bloodelemental_bone_67
+    400134: creature/bloodelemental/bloodelemental_bone_68
+    400136: creature/bloodelemental/bloodelemental_bone_69
+    400138: creature/bloodelemental/bloodelemental_bone_7
+    400140: creature/bloodelemental/bloodelemental_bone_70
+    400142: creature/bloodelemental/bloodelemental_bone_8
+    400144: creature/bloodelemental/bloodelemental_bone_9
+    400146: //RootNode
+    2100000: creature_bloodelemental_bloodelemental_1
+    2100002: creature_bloodelemental_bloodelemental_3
+    2100004: creature_bloodelemental_bloodelemental_4
+    2100006: creature_bloodelemental_bloodelemental_5
+    2100008: creature_bloodelemental_bloodelemental_6
+    4300000: creature/bloodelemental/bloodelemental
+    7400000: Stand [0]
+    7400002: Walk [1]
+    7400004: AttackUnarmed [2]
+    7400006: CombatCritical [4]
+    7400008: CombatWound [3]
+    7400010: ReadyUnarmed [5]
+    7400012: Stun [7]
+    7400014: EmoteStunNoSheathe [6]
+    7400016: AttackUnarmed [8]
+    7400018: Death [9]
+    7400020: Run [11]
+    7400022: Sprint [10]
+    7400024: StandWound [12]
+    7400026: BattleRoar [13]
+    7400028: ChannelCastDirected [14]
+    7400030: ParryUnarmed [15]
+    7400032: ReadySpellDirected [17]
+    7400034: ReadySpellOmni [16]
+    7400036: Whirlwind [18]
+    7400038: ChannelCastOmni [19]
+    7400040: SpellCastDirected [20]
+    7400042: SpellCastOmni [21]
+    7400044: Drown [22]
+    7400046: Drowned [23]
+    7400048: Swim [24]
+    7400050: SwimIdle [25]
+    7400052: Emerge [27]
+    7400054: Birth [26]
+    7400056: Submerged [28]
+    7400058: Cower [29]
+    9500000: //RootNode
+    13700000: creature/bloodelemental/bloodelemental
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bloodelemental
+    second: {fileID: 2800000, guid: 9876e5a68313ed3468c6aa164e8f6818, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fx_alpha_bloodelemental
+    second: {fileID: 2800000, guid: 5a6c9de9b99a2bf4dadffe30a5399635, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand [0]
+      takeName: Stand [0]
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk [1]
+      takeName: Walk [1]
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackUnarmed [2]
+      takeName: AttackUnarmed [2]
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CombatCritical [4]
+      takeName: CombatCritical [4]
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CombatWound [3]
+      takeName: CombatWound [3]
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReadyUnarmed [5]
+      takeName: ReadyUnarmed [5]
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun [7]
+      takeName: Stun [7]
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: EmoteStunNoSheathe [6]
+      takeName: EmoteStunNoSheathe [6]
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackUnarmed [8]
+      takeName: AttackUnarmed [8]
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death [9]
+      takeName: Death [9]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run [11]
+      takeName: Run [11]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sprint [10]
+      takeName: Sprint [10]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StandWound [12]
+      takeName: StandWound [12]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BattleRoar [13]
+      takeName: BattleRoar [13]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ChannelCastDirected [14]
+      takeName: ChannelCastDirected [14]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ParryUnarmed [15]
+      takeName: ParryUnarmed [15]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReadySpellDirected [17]
+      takeName: ReadySpellDirected [17]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReadySpellOmni [16]
+      takeName: ReadySpellOmni [16]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Whirlwind [18]
+      takeName: Whirlwind [18]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ChannelCastOmni [19]
+      takeName: ChannelCastOmni [19]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpellCastDirected [20]
+      takeName: SpellCastDirected [20]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpellCastOmni [21]
+      takeName: SpellCastOmni [21]
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Drown [22]
+      takeName: Drown [22]
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Drowned [23]
+      takeName: Drowned [23]
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swim [24]
+      takeName: Swim [24]
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SwimIdle [25]
+      takeName: SwimIdle [25]
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Emerge [27]
+      takeName: Emerge [27]
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Birth [26]
+      takeName: Birth [26]
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Submerged [28]
+      takeName: Submerged [28]
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cower [29]
+      takeName: Cower [29]
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

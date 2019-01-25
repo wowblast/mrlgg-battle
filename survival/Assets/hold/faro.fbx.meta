@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 7239f70c4e5c08842abd2909ff64e0bb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: world/azeroth/westfall/buildings/lighthouse/lighthousered
+    100004: world/azeroth/westfall/buildings/lighthouse/lighthousered 1
+    100006: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_0
+    100008: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_1
+    100010: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_2
+    100012: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_3
+    100014: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_4
+    100016: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_5
+    100018: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_6
+    400000: //RootNode
+    400002: world/azeroth/westfall/buildings/lighthouse/lighthousered
+    400004: world/azeroth/westfall/buildings/lighthouse/lighthousered 1
+    400006: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_0
+    400008: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_1
+    400010: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_2
+    400012: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_3
+    400014: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_4
+    400016: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_5
+    400018: world/azeroth/westfall/buildings/lighthouse/lighthousered_bone_6
+    2100000: world_azeroth_westfall_buildings_lighthouse_lighthousered_0
+    2100002: world_azeroth_westfall_buildings_lighthouse_lighthousered_1
+    2100004: world_azeroth_westfall_buildings_lighthouse_lighthousered_2
+    2100006: world_azeroth_westfall_buildings_lighthouse_lighthousered_3
+    2100008: world_azeroth_westfall_buildings_lighthouse_lighthousered_4
+    2100010: world_azeroth_westfall_buildings_lighthouse_lighthousered_5
+    2100012: world_azeroth_westfall_buildings_lighthouse_lighthousered_6
+    2100014: world_azeroth_westfall_buildings_lighthouse_lighthousered_7
+    2100016: world_azeroth_westfall_buildings_lighthouse_lighthousered_8
+    2100018: world_azeroth_westfall_buildings_lighthouse_lighthousered_9
+    2100020: world_azeroth_westfall_buildings_lighthouse_lighthousered_10
+    2100022: world_azeroth_westfall_buildings_lighthouse_lighthousered_11
+    2100024: world_azeroth_westfall_buildings_lighthouse_lighthousered_12
+    2100026: world_azeroth_westfall_buildings_lighthouse_lighthousered_13
+    2100028: world_azeroth_westfall_buildings_lighthouse_lighthousered_14
+    2100030: world_azeroth_westfall_buildings_lighthouse_lighthousered_15
+    2100032: world_azeroth_westfall_buildings_lighthouse_lighthousered_16
+    2100034: world_azeroth_westfall_buildings_lighthouse_lighthousered_17
+    2100036: world_azeroth_westfall_buildings_lighthouse_lighthousered_18
+    4300000: world/azeroth/westfall/buildings/lighthouse/lighthousered
+    7400000: Stand [0]
+    9500000: //RootNode
+    13700000: world/azeroth/westfall/buildings/lighthouse/lighthousered
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: battlegladechain01
+    second: {fileID: 2800000, guid: 27f47f31c38015949930fea1fc35d702, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: elwynnpillarwood06
+    second: {fileID: 2800000, guid: ef8d940f349cde6439d1ec956618b436, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: grainsilo03
+    second: {fileID: 2800000, guid: 0a68ea0f38ec7cd438c71d4fdb00ef06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: humanguardtowerskin05
+    second: {fileID: 2800000, guid: 547514391ddb63a4fb1f7ac57859b24f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm_barracks_wall_01
+    second: {fileID: 2800000, guid: 0a475411f19f8884c8c784ce098c0616, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm_metal_floor_border_01x
+    second: {fileID: 2800000, guid: 0cfe710aab2e61044a96679f725e50e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm_redshingles_ledge_01
+    second: {fileID: 2800000, guid: 1ad104353b4fd16459141ee21946e1f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm_rr_roof_01
+    second: {fileID: 2800000, guid: f233752b9291ee74aabb97221f8bd15a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm_rr_wall_01
+    second: {fileID: 2800000, guid: 14749ecabf197f141a6eaa4dfd8404c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm_strmwnd_supports_01
+    second: {fileID: 2800000, guid: 9a7a196d48d48694c900f92e1e8fd7ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm_strmwnd_trim_01
+    second: {fileID: 2800000, guid: 39e9a1d1f952960469508916fff78324, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm_strmwnd_trim_02
+    second: {fileID: 2800000, guid: bf0a3564363c3a14abc84319ccce2453, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm_strmwnd_wall_05
+    second: {fileID: 2800000, guid: 7058535bbe92ff347bfbc5440465da06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: supports2
+    second: {fileID: 2800000, guid: ddf1ee5e5b756ad48915c047b7cf257f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: westfalldoor
+    second: {fileID: 2800000, guid: e5fa1b4eddd488a41b9d95a779eba199, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: westfarmwindow
+    second: {fileID: 2800000, guid: 7a3f2bad9f50eef4490425a5d539cb5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: westwoodmisclantern01
+    second: {fileID: 2800000, guid: 0423b5bfeb9e49e4d86868edf778b8c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wirefloor
+    second: {fileID: 2800000, guid: baf6e6aa656732342882160942bc09fc, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

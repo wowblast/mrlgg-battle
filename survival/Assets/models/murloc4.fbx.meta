@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 86385c4016de7ac45a2bf6660a196675
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: creature/dhmurloc/dhmurloc
+    100002: creature/dhmurloc/dhmurloc 1
+    100004: creature/dhmurloc/dhmurloc_bone_0
+    100006: creature/dhmurloc/dhmurloc_bone_1
+    100008: creature/dhmurloc/dhmurloc_bone_10
+    100010: creature/dhmurloc/dhmurloc_bone_11
+    100012: creature/dhmurloc/dhmurloc_bone_12
+    100014: creature/dhmurloc/dhmurloc_bone_13
+    100016: creature/dhmurloc/dhmurloc_bone_14
+    100018: creature/dhmurloc/dhmurloc_bone_15
+    100020: creature/dhmurloc/dhmurloc_bone_16
+    100022: creature/dhmurloc/dhmurloc_bone_17
+    100024: creature/dhmurloc/dhmurloc_bone_18
+    100026: creature/dhmurloc/dhmurloc_bone_19
+    100028: creature/dhmurloc/dhmurloc_bone_2
+    100030: creature/dhmurloc/dhmurloc_bone_20
+    100032: creature/dhmurloc/dhmurloc_bone_21
+    100034: creature/dhmurloc/dhmurloc_bone_22
+    100036: creature/dhmurloc/dhmurloc_bone_23
+    100038: creature/dhmurloc/dhmurloc_bone_24
+    100040: creature/dhmurloc/dhmurloc_bone_25
+    100042: creature/dhmurloc/dhmurloc_bone_26
+    100044: creature/dhmurloc/dhmurloc_bone_27
+    100046: creature/dhmurloc/dhmurloc_bone_28
+    100048: creature/dhmurloc/dhmurloc_bone_29
+    100050: creature/dhmurloc/dhmurloc_bone_3
+    100052: creature/dhmurloc/dhmurloc_bone_30
+    100054: creature/dhmurloc/dhmurloc_bone_31
+    100056: creature/dhmurloc/dhmurloc_bone_32
+    100058: creature/dhmurloc/dhmurloc_bone_33
+    100060: creature/dhmurloc/dhmurloc_bone_34
+    100062: creature/dhmurloc/dhmurloc_bone_35
+    100064: creature/dhmurloc/dhmurloc_bone_36
+    100066: creature/dhmurloc/dhmurloc_bone_37
+    100068: creature/dhmurloc/dhmurloc_bone_38
+    100070: creature/dhmurloc/dhmurloc_bone_39
+    100072: creature/dhmurloc/dhmurloc_bone_4
+    100074: creature/dhmurloc/dhmurloc_bone_40
+    100076: creature/dhmurloc/dhmurloc_bone_41
+    100078: creature/dhmurloc/dhmurloc_bone_42
+    100080: creature/dhmurloc/dhmurloc_bone_43
+    100082: creature/dhmurloc/dhmurloc_bone_44
+    100084: creature/dhmurloc/dhmurloc_bone_45
+    100086: creature/dhmurloc/dhmurloc_bone_46
+    100088: creature/dhmurloc/dhmurloc_bone_47
+    100090: creature/dhmurloc/dhmurloc_bone_48
+    100092: creature/dhmurloc/dhmurloc_bone_49
+    100094: creature/dhmurloc/dhmurloc_bone_5
+    100096: creature/dhmurloc/dhmurloc_bone_50
+    100098: creature/dhmurloc/dhmurloc_bone_51
+    100100: creature/dhmurloc/dhmurloc_bone_52
+    100102: creature/dhmurloc/dhmurloc_bone_53
+    100104: creature/dhmurloc/dhmurloc_bone_54
+    100106: creature/dhmurloc/dhmurloc_bone_55
+    100108: creature/dhmurloc/dhmurloc_bone_56
+    100110: creature/dhmurloc/dhmurloc_bone_57
+    100112: creature/dhmurloc/dhmurloc_bone_58
+    100114: creature/dhmurloc/dhmurloc_bone_6
+    100116: creature/dhmurloc/dhmurloc_bone_7
+    100118: creature/dhmurloc/dhmurloc_bone_8
+    100120: creature/dhmurloc/dhmurloc_bone_9
+    100122: //RootNode
+    400000: creature/dhmurloc/dhmurloc
+    400002: creature/dhmurloc/dhmurloc 1
+    400004: creature/dhmurloc/dhmurloc_bone_0
+    400006: creature/dhmurloc/dhmurloc_bone_1
+    400008: creature/dhmurloc/dhmurloc_bone_10
+    400010: creature/dhmurloc/dhmurloc_bone_11
+    400012: creature/dhmurloc/dhmurloc_bone_12
+    400014: creature/dhmurloc/dhmurloc_bone_13
+    400016: creature/dhmurloc/dhmurloc_bone_14
+    400018: creature/dhmurloc/dhmurloc_bone_15
+    400020: creature/dhmurloc/dhmurloc_bone_16
+    400022: creature/dhmurloc/dhmurloc_bone_17
+    400024: creature/dhmurloc/dhmurloc_bone_18
+    400026: creature/dhmurloc/dhmurloc_bone_19
+    400028: creature/dhmurloc/dhmurloc_bone_2
+    400030: creature/dhmurloc/dhmurloc_bone_20
+    400032: creature/dhmurloc/dhmurloc_bone_21
+    400034: creature/dhmurloc/dhmurloc_bone_22
+    400036: creature/dhmurloc/dhmurloc_bone_23
+    400038: creature/dhmurloc/dhmurloc_bone_24
+    400040: creature/dhmurloc/dhmurloc_bone_25
+    400042: creature/dhmurloc/dhmurloc_bone_26
+    400044: creature/dhmurloc/dhmurloc_bone_27
+    400046: creature/dhmurloc/dhmurloc_bone_28
+    400048: creature/dhmurloc/dhmurloc_bone_29
+    400050: creature/dhmurloc/dhmurloc_bone_3
+    400052: creature/dhmurloc/dhmurloc_bone_30
+    400054: creature/dhmurloc/dhmurloc_bone_31
+    400056: creature/dhmurloc/dhmurloc_bone_32
+    400058: creature/dhmurloc/dhmurloc_bone_33
+    400060: creature/dhmurloc/dhmurloc_bone_34
+    400062: creature/dhmurloc/dhmurloc_bone_35
+    400064: creature/dhmurloc/dhmurloc_bone_36
+    400066: creature/dhmurloc/dhmurloc_bone_37
+    400068: creature/dhmurloc/dhmurloc_bone_38
+    400070: creature/dhmurloc/dhmurloc_bone_39
+    400072: creature/dhmurloc/dhmurloc_bone_4
+    400074: creature/dhmurloc/dhmurloc_bone_40
+    400076: creature/dhmurloc/dhmurloc_bone_41
+    400078: creature/dhmurloc/dhmurloc_bone_42
+    400080: creature/dhmurloc/dhmurloc_bone_43
+    400082: creature/dhmurloc/dhmurloc_bone_44
+    400084: creature/dhmurloc/dhmurloc_bone_45
+    400086: creature/dhmurloc/dhmurloc_bone_46
+    400088: creature/dhmurloc/dhmurloc_bone_47
+    400090: creature/dhmurloc/dhmurloc_bone_48
+    400092: creature/dhmurloc/dhmurloc_bone_49
+    400094: creature/dhmurloc/dhmurloc_bone_5
+    400096: creature/dhmurloc/dhmurloc_bone_50
+    400098: creature/dhmurloc/dhmurloc_bone_51
+    400100: creature/dhmurloc/dhmurloc_bone_52
+    400102: creature/dhmurloc/dhmurloc_bone_53
+    400104: creature/dhmurloc/dhmurloc_bone_54
+    400106: creature/dhmurloc/dhmurloc_bone_55
+    400108: creature/dhmurloc/dhmurloc_bone_56
+    400110: creature/dhmurloc/dhmurloc_bone_57
+    400112: creature/dhmurloc/dhmurloc_bone_58
+    400114: creature/dhmurloc/dhmurloc_bone_6
+    400116: creature/dhmurloc/dhmurloc_bone_7
+    400118: creature/dhmurloc/dhmurloc_bone_8
+    400120: creature/dhmurloc/dhmurloc_bone_9
+    400122: //RootNode
+    2100000: creature_dhmurloc_dhmurloc_0
+    2100002: creature_dhmurloc_dhmurloc_1
+    2100004: creature_dhmurloc_dhmurloc_2
+    2100006: creature_dhmurloc_dhmurloc_3
+    4300000: creature/dhmurloc/dhmurloc
+    7400000: SpecialUnarmed [0]
+    7400002: Stand [2]
+    7400004: PetBattleStand [1]
+    7400006: Stand [3]
+    7400008: Stand [4]
+    7400010: Stand [5]
+    7400012: AttackUnarmed [6]
+    7400014: AttackUnarmed [8]
+    7400016: PetBattleAttack [7]
+    7400018: CombatCritical [10]
+    7400020: PetBattleWound [9]
+    7400022: CombatWound [12]
+    7400024: StandWound [11]
+    7400026: Death [14]
+    7400028: PetBattleDeath [13]
+    7400030: Drown [15]
+    7400032: Drowned [16]
+    7400034: HandsClosed [17]
+    7400036: Run [19]
+    7400038: Sprint [20]
+    7400040: PetBattleRun [18]
+    7400042: SpellCast [21]
+    7400044: Swim [22]
+    7400046: SwimIdle [23]
+    7400048: Walk [24]
+    9500000: //RootNode
+    13700000: creature/dhmurloc/dhmurloc
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dhmurloc_24bit
+    second: {fileID: 2800000, guid: 1671192033e89e3469d62c666c1d0a5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dhmurloc_warglaive
+    second: {fileID: 2800000, guid: ba4b4c736e1513645adaf865857315af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dhmurlocshadow_24bit
+    second: {fileID: 2800000, guid: 4662d2504e7d2144c979fd4483d439ec, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SpecialUnarmed [0]
+      takeName: SpecialUnarmed [0]
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand [2]
+      takeName: Stand [2]
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PetBattleStand [1]
+      takeName: PetBattleStand [1]
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand [3]
+      takeName: Stand [3]
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand [4]
+      takeName: Stand [4]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand [5]
+      takeName: Stand [5]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackUnarmed [6]
+      takeName: AttackUnarmed [6]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackUnarmed [8]
+      takeName: AttackUnarmed [8]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PetBattleAttack [7]
+      takeName: PetBattleAttack [7]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CombatCritical [10]
+      takeName: CombatCritical [10]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PetBattleWound [9]
+      takeName: PetBattleWound [9]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CombatWound [12]
+      takeName: CombatWound [12]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StandWound [11]
+      takeName: StandWound [11]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death [14]
+      takeName: Death [14]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PetBattleDeath [13]
+      takeName: PetBattleDeath [13]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Drown [15]
+      takeName: Drown [15]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Drowned [16]
+      takeName: Drowned [16]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HandsClosed [17]
+      takeName: HandsClosed [17]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run [19]
+      takeName: Run [19]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sprint [20]
+      takeName: Sprint [20]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PetBattleRun [18]
+      takeName: PetBattleRun [18]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpellCast [21]
+      takeName: SpellCast [21]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swim [22]
+      takeName: Swim [22]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SwimIdle [23]
+      takeName: SwimIdle [23]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk [24]
+      takeName: Walk [24]
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

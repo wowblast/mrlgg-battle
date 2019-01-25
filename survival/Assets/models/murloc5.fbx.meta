@@ -1,0 +1,735 @@
+fileFormatVersion: 2
+guid: b6087316d1db4f54cafc24ec08b8e731
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: creature/murloc/marinebabymurloc
+    100002: creature/murloc/marinebabymurloc 1
+    100004: creature/murloc/marinebabymurloc_bone_0
+    100006: creature/murloc/marinebabymurloc_bone_1
+    100008: creature/murloc/marinebabymurloc_bone_10
+    100010: creature/murloc/marinebabymurloc_bone_100
+    100012: creature/murloc/marinebabymurloc_bone_101
+    100014: creature/murloc/marinebabymurloc_bone_102
+    100016: creature/murloc/marinebabymurloc_bone_103
+    100018: creature/murloc/marinebabymurloc_bone_104
+    100020: creature/murloc/marinebabymurloc_bone_105
+    100022: creature/murloc/marinebabymurloc_bone_106
+    100024: creature/murloc/marinebabymurloc_bone_107
+    100026: creature/murloc/marinebabymurloc_bone_11
+    100028: creature/murloc/marinebabymurloc_bone_12
+    100030: creature/murloc/marinebabymurloc_bone_13
+    100032: creature/murloc/marinebabymurloc_bone_14
+    100034: creature/murloc/marinebabymurloc_bone_15
+    100036: creature/murloc/marinebabymurloc_bone_16
+    100038: creature/murloc/marinebabymurloc_bone_17
+    100040: creature/murloc/marinebabymurloc_bone_18
+    100042: creature/murloc/marinebabymurloc_bone_19
+    100044: creature/murloc/marinebabymurloc_bone_2
+    100046: creature/murloc/marinebabymurloc_bone_20
+    100048: creature/murloc/marinebabymurloc_bone_21
+    100050: creature/murloc/marinebabymurloc_bone_22
+    100052: creature/murloc/marinebabymurloc_bone_23
+    100054: creature/murloc/marinebabymurloc_bone_24
+    100056: creature/murloc/marinebabymurloc_bone_25
+    100058: creature/murloc/marinebabymurloc_bone_26
+    100060: creature/murloc/marinebabymurloc_bone_27
+    100062: creature/murloc/marinebabymurloc_bone_28
+    100064: creature/murloc/marinebabymurloc_bone_29
+    100066: creature/murloc/marinebabymurloc_bone_3
+    100068: creature/murloc/marinebabymurloc_bone_30
+    100070: creature/murloc/marinebabymurloc_bone_31
+    100072: creature/murloc/marinebabymurloc_bone_32
+    100074: creature/murloc/marinebabymurloc_bone_33
+    100076: creature/murloc/marinebabymurloc_bone_34
+    100078: creature/murloc/marinebabymurloc_bone_35
+    100080: creature/murloc/marinebabymurloc_bone_36
+    100082: creature/murloc/marinebabymurloc_bone_37
+    100084: creature/murloc/marinebabymurloc_bone_38
+    100086: creature/murloc/marinebabymurloc_bone_39
+    100088: creature/murloc/marinebabymurloc_bone_4
+    100090: creature/murloc/marinebabymurloc_bone_40
+    100092: creature/murloc/marinebabymurloc_bone_41
+    100094: creature/murloc/marinebabymurloc_bone_42
+    100096: creature/murloc/marinebabymurloc_bone_43
+    100098: creature/murloc/marinebabymurloc_bone_44
+    100100: creature/murloc/marinebabymurloc_bone_45
+    100102: creature/murloc/marinebabymurloc_bone_46
+    100104: creature/murloc/marinebabymurloc_bone_47
+    100106: creature/murloc/marinebabymurloc_bone_48
+    100108: creature/murloc/marinebabymurloc_bone_49
+    100110: creature/murloc/marinebabymurloc_bone_5
+    100112: creature/murloc/marinebabymurloc_bone_50
+    100114: creature/murloc/marinebabymurloc_bone_51
+    100116: creature/murloc/marinebabymurloc_bone_52
+    100118: creature/murloc/marinebabymurloc_bone_53
+    100120: creature/murloc/marinebabymurloc_bone_54
+    100122: creature/murloc/marinebabymurloc_bone_55
+    100124: creature/murloc/marinebabymurloc_bone_56
+    100126: creature/murloc/marinebabymurloc_bone_57
+    100128: creature/murloc/marinebabymurloc_bone_58
+    100130: creature/murloc/marinebabymurloc_bone_59
+    100132: creature/murloc/marinebabymurloc_bone_6
+    100134: creature/murloc/marinebabymurloc_bone_60
+    100136: creature/murloc/marinebabymurloc_bone_61
+    100138: creature/murloc/marinebabymurloc_bone_62
+    100140: creature/murloc/marinebabymurloc_bone_63
+    100142: creature/murloc/marinebabymurloc_bone_64
+    100144: creature/murloc/marinebabymurloc_bone_65
+    100146: creature/murloc/marinebabymurloc_bone_66
+    100148: creature/murloc/marinebabymurloc_bone_67
+    100150: creature/murloc/marinebabymurloc_bone_68
+    100152: creature/murloc/marinebabymurloc_bone_69
+    100154: creature/murloc/marinebabymurloc_bone_7
+    100156: creature/murloc/marinebabymurloc_bone_70
+    100158: creature/murloc/marinebabymurloc_bone_71
+    100160: creature/murloc/marinebabymurloc_bone_72
+    100162: creature/murloc/marinebabymurloc_bone_73
+    100164: creature/murloc/marinebabymurloc_bone_74
+    100166: creature/murloc/marinebabymurloc_bone_75
+    100168: creature/murloc/marinebabymurloc_bone_76
+    100170: creature/murloc/marinebabymurloc_bone_77
+    100172: creature/murloc/marinebabymurloc_bone_78
+    100174: creature/murloc/marinebabymurloc_bone_79
+    100176: creature/murloc/marinebabymurloc_bone_8
+    100178: creature/murloc/marinebabymurloc_bone_80
+    100180: creature/murloc/marinebabymurloc_bone_81
+    100182: creature/murloc/marinebabymurloc_bone_82
+    100184: creature/murloc/marinebabymurloc_bone_83
+    100186: creature/murloc/marinebabymurloc_bone_84
+    100188: creature/murloc/marinebabymurloc_bone_85
+    100190: creature/murloc/marinebabymurloc_bone_86
+    100192: creature/murloc/marinebabymurloc_bone_87
+    100194: creature/murloc/marinebabymurloc_bone_88
+    100196: creature/murloc/marinebabymurloc_bone_89
+    100198: creature/murloc/marinebabymurloc_bone_9
+    100200: creature/murloc/marinebabymurloc_bone_90
+    100202: creature/murloc/marinebabymurloc_bone_91
+    100204: creature/murloc/marinebabymurloc_bone_92
+    100206: creature/murloc/marinebabymurloc_bone_93
+    100208: creature/murloc/marinebabymurloc_bone_94
+    100210: creature/murloc/marinebabymurloc_bone_95
+    100212: creature/murloc/marinebabymurloc_bone_96
+    100214: creature/murloc/marinebabymurloc_bone_97
+    100216: creature/murloc/marinebabymurloc_bone_98
+    100218: creature/murloc/marinebabymurloc_bone_99
+    100220: //RootNode
+    400000: creature/murloc/marinebabymurloc
+    400002: creature/murloc/marinebabymurloc 1
+    400004: creature/murloc/marinebabymurloc_bone_0
+    400006: creature/murloc/marinebabymurloc_bone_1
+    400008: creature/murloc/marinebabymurloc_bone_10
+    400010: creature/murloc/marinebabymurloc_bone_100
+    400012: creature/murloc/marinebabymurloc_bone_101
+    400014: creature/murloc/marinebabymurloc_bone_102
+    400016: creature/murloc/marinebabymurloc_bone_103
+    400018: creature/murloc/marinebabymurloc_bone_104
+    400020: creature/murloc/marinebabymurloc_bone_105
+    400022: creature/murloc/marinebabymurloc_bone_106
+    400024: creature/murloc/marinebabymurloc_bone_107
+    400026: creature/murloc/marinebabymurloc_bone_11
+    400028: creature/murloc/marinebabymurloc_bone_12
+    400030: creature/murloc/marinebabymurloc_bone_13
+    400032: creature/murloc/marinebabymurloc_bone_14
+    400034: creature/murloc/marinebabymurloc_bone_15
+    400036: creature/murloc/marinebabymurloc_bone_16
+    400038: creature/murloc/marinebabymurloc_bone_17
+    400040: creature/murloc/marinebabymurloc_bone_18
+    400042: creature/murloc/marinebabymurloc_bone_19
+    400044: creature/murloc/marinebabymurloc_bone_2
+    400046: creature/murloc/marinebabymurloc_bone_20
+    400048: creature/murloc/marinebabymurloc_bone_21
+    400050: creature/murloc/marinebabymurloc_bone_22
+    400052: creature/murloc/marinebabymurloc_bone_23
+    400054: creature/murloc/marinebabymurloc_bone_24
+    400056: creature/murloc/marinebabymurloc_bone_25
+    400058: creature/murloc/marinebabymurloc_bone_26
+    400060: creature/murloc/marinebabymurloc_bone_27
+    400062: creature/murloc/marinebabymurloc_bone_28
+    400064: creature/murloc/marinebabymurloc_bone_29
+    400066: creature/murloc/marinebabymurloc_bone_3
+    400068: creature/murloc/marinebabymurloc_bone_30
+    400070: creature/murloc/marinebabymurloc_bone_31
+    400072: creature/murloc/marinebabymurloc_bone_32
+    400074: creature/murloc/marinebabymurloc_bone_33
+    400076: creature/murloc/marinebabymurloc_bone_34
+    400078: creature/murloc/marinebabymurloc_bone_35
+    400080: creature/murloc/marinebabymurloc_bone_36
+    400082: creature/murloc/marinebabymurloc_bone_37
+    400084: creature/murloc/marinebabymurloc_bone_38
+    400086: creature/murloc/marinebabymurloc_bone_39
+    400088: creature/murloc/marinebabymurloc_bone_4
+    400090: creature/murloc/marinebabymurloc_bone_40
+    400092: creature/murloc/marinebabymurloc_bone_41
+    400094: creature/murloc/marinebabymurloc_bone_42
+    400096: creature/murloc/marinebabymurloc_bone_43
+    400098: creature/murloc/marinebabymurloc_bone_44
+    400100: creature/murloc/marinebabymurloc_bone_45
+    400102: creature/murloc/marinebabymurloc_bone_46
+    400104: creature/murloc/marinebabymurloc_bone_47
+    400106: creature/murloc/marinebabymurloc_bone_48
+    400108: creature/murloc/marinebabymurloc_bone_49
+    400110: creature/murloc/marinebabymurloc_bone_5
+    400112: creature/murloc/marinebabymurloc_bone_50
+    400114: creature/murloc/marinebabymurloc_bone_51
+    400116: creature/murloc/marinebabymurloc_bone_52
+    400118: creature/murloc/marinebabymurloc_bone_53
+    400120: creature/murloc/marinebabymurloc_bone_54
+    400122: creature/murloc/marinebabymurloc_bone_55
+    400124: creature/murloc/marinebabymurloc_bone_56
+    400126: creature/murloc/marinebabymurloc_bone_57
+    400128: creature/murloc/marinebabymurloc_bone_58
+    400130: creature/murloc/marinebabymurloc_bone_59
+    400132: creature/murloc/marinebabymurloc_bone_6
+    400134: creature/murloc/marinebabymurloc_bone_60
+    400136: creature/murloc/marinebabymurloc_bone_61
+    400138: creature/murloc/marinebabymurloc_bone_62
+    400140: creature/murloc/marinebabymurloc_bone_63
+    400142: creature/murloc/marinebabymurloc_bone_64
+    400144: creature/murloc/marinebabymurloc_bone_65
+    400146: creature/murloc/marinebabymurloc_bone_66
+    400148: creature/murloc/marinebabymurloc_bone_67
+    400150: creature/murloc/marinebabymurloc_bone_68
+    400152: creature/murloc/marinebabymurloc_bone_69
+    400154: creature/murloc/marinebabymurloc_bone_7
+    400156: creature/murloc/marinebabymurloc_bone_70
+    400158: creature/murloc/marinebabymurloc_bone_71
+    400160: creature/murloc/marinebabymurloc_bone_72
+    400162: creature/murloc/marinebabymurloc_bone_73
+    400164: creature/murloc/marinebabymurloc_bone_74
+    400166: creature/murloc/marinebabymurloc_bone_75
+    400168: creature/murloc/marinebabymurloc_bone_76
+    400170: creature/murloc/marinebabymurloc_bone_77
+    400172: creature/murloc/marinebabymurloc_bone_78
+    400174: creature/murloc/marinebabymurloc_bone_79
+    400176: creature/murloc/marinebabymurloc_bone_8
+    400178: creature/murloc/marinebabymurloc_bone_80
+    400180: creature/murloc/marinebabymurloc_bone_81
+    400182: creature/murloc/marinebabymurloc_bone_82
+    400184: creature/murloc/marinebabymurloc_bone_83
+    400186: creature/murloc/marinebabymurloc_bone_84
+    400188: creature/murloc/marinebabymurloc_bone_85
+    400190: creature/murloc/marinebabymurloc_bone_86
+    400192: creature/murloc/marinebabymurloc_bone_87
+    400194: creature/murloc/marinebabymurloc_bone_88
+    400196: creature/murloc/marinebabymurloc_bone_89
+    400198: creature/murloc/marinebabymurloc_bone_9
+    400200: creature/murloc/marinebabymurloc_bone_90
+    400202: creature/murloc/marinebabymurloc_bone_91
+    400204: creature/murloc/marinebabymurloc_bone_92
+    400206: creature/murloc/marinebabymurloc_bone_93
+    400208: creature/murloc/marinebabymurloc_bone_94
+    400210: creature/murloc/marinebabymurloc_bone_95
+    400212: creature/murloc/marinebabymurloc_bone_96
+    400214: creature/murloc/marinebabymurloc_bone_97
+    400216: creature/murloc/marinebabymurloc_bone_98
+    400218: creature/murloc/marinebabymurloc_bone_99
+    400220: //RootNode
+    2100000: creature_murloc_marinebabymurloc_0
+    2100002: creature_murloc_marinebabymurloc_1
+    2100004: creature_murloc_marinebabymurloc_3
+    2100006: creature_murloc_marinebabymurloc_4
+    2100008: creature_murloc_marinebabymurloc_11
+    4300000: creature/murloc/marinebabymurloc
+    7400000: Stand [0]
+    7400002: Walk [1]
+    7400004: Run [2]
+    7400006: CombatWound [3]
+    7400008: Stand [4]
+    7400010: Stand [5]
+    7400012: Swim [6]
+    7400014: SwimIdle [7]
+    7400016: Stand [8]
+    7400018: Stand [9]
+    7400020: Death [10]
+    7400022: AttackUnarmed [11]
+    7400024: ReadyUnarmed [12]
+    9500000: //RootNode
+    13700000: creature/murloc/marinebabymurloc
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: creature_murloc_marinebabymurloc_0
+    second: {fileID: 2100000, guid: 058537f4a2cea6f4c841289be4158df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: creature_murloc_marinebabymurloc_1
+    second: {fileID: 2100000, guid: f0dd1448788427148a19a9d7dd021f66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: creature_murloc_marinebabymurloc_11
+    second: {fileID: 2100000, guid: e5a1a3bfce09d9344ba74bdb3604b298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: creature_murloc_marinebabymurloc_3
+    second: {fileID: 2100000, guid: 634588149172aa34589f30fd50392a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: creature_murloc_marinebabymurloc_4
+    second: {fileID: 2100000, guid: f12d06212320c1a4ab451911cbbe9137, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: marinebabymurlocarmor
+    second: {fileID: 2800000, guid: a044b56b2af77804089cfaef7b074b0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: marinebabymurlocskin
+    second: {fileID: 2800000, guid: feb535a0006d50147a7c7570b364b823, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nex_envmap03
+    second: {fileID: 2800000, guid: 7e4a8353b01541c459efc7c716e5a99b, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand [0]
+      takeName: Stand [0]
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk [1]
+      takeName: Walk [1]
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run [2]
+      takeName: Run [2]
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CombatWound [3]
+      takeName: CombatWound [3]
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand [4]
+      takeName: Stand [4]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand [5]
+      takeName: Stand [5]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swim [6]
+      takeName: Swim [6]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SwimIdle [7]
+      takeName: SwimIdle [7]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand [8]
+      takeName: Stand [8]
+      firstFrame: 0
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand [9]
+      takeName: Stand [9]
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death [10]
+      takeName: Death [10]
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackUnarmed [11]
+      takeName: AttackUnarmed [11]
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReadyUnarmed [12]
+      takeName: ReadyUnarmed [12]
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 96aa9265eb1200e47999ba1e93b0921e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: world/expansion06/doodads/murloc/7mu_murloc_hut02
+    100004: world/expansion06/doodads/murloc/7mu_murloc_hut02 1
+    100006: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_0
+    100008: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_1
+    100010: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_2
+    100012: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_3
+    100014: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_4
+    100016: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_5
+    100018: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_6
+    100020: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_7
+    100022: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_8
+    400000: //RootNode
+    400002: world/expansion06/doodads/murloc/7mu_murloc_hut02
+    400004: world/expansion06/doodads/murloc/7mu_murloc_hut02 1
+    400006: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_0
+    400008: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_1
+    400010: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_2
+    400012: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_3
+    400014: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_4
+    400016: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_5
+    400018: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_6
+    400020: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_7
+    400022: world/expansion06/doodads/murloc/7mu_murloc_hut02_bone_8
+    2100000: world_expansion06_doodads_murloc_7mu_murloc_hut02_0
+    2100002: world_expansion06_doodads_murloc_7mu_murloc_hut02_1
+    2100004: world_expansion06_doodads_murloc_7mu_murloc_hut02_2
+    2100006: world_expansion06_doodads_murloc_7mu_murloc_hut02_3
+    4300000: world/expansion06/doodads/murloc/7mu_murloc_hut02
+    7400000: Stand [0]
+    9500000: //RootNode
+    13700000: world/expansion06/doodads/murloc/7mu_murloc_hut02
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7mu_murloc_map1
+    second: {fileID: 2800000, guid: ce15d69adeef00348a47e9b5482c2d1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7mu_murloc_map2
+    second: {fileID: 2800000, guid: 0b41634c4a7ee24499534567563e40f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7mu_murloc_map4
+    second: {fileID: 2800000, guid: 6090840c2597afd4c96e85948d5752d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7mu_murloc_map8
+    second: {fileID: 2800000, guid: 2432ddc422700df4ab87cca452382157, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
