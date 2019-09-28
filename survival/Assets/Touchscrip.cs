@@ -16,10 +16,10 @@ public class Touchscrip : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         var fps = GetComponent<FirstPersonController>();
-        fps.RunAxis = movejoystick.inputVector;
+       /* fps.RunAxis = movejoystick.inputVector;
         fps.JumpAxis = button.Pressed;
        // Debug.Log(touch.inputVector);
         fps.m_MouseLook.LookAxis = touch2.inputVector;
-		
+		*/
 	}
 }

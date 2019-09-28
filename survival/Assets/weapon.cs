@@ -8,7 +8,7 @@ public class weapon : MonoBehaviour {
 	 public GameObject fire;
 	public AudioSource fuego;
 	bool isfire = false;
-	public int damage = 20;
+	public int damage = 40;
 	public float target_distance;
 	bool activar = true;
 	
@@ -22,7 +22,10 @@ public class weapon : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if(Input.GetButton("Fire1"))
+		{
+			disparar();
+		}
 		
 	}
 	IEnumerator Firingpistol()
@@ -32,7 +35,7 @@ public class weapon : MonoBehaviour {
 		if(Physics.Raycast(transform.position,transform.TransformDirection(Vector3.left),out shot))
 		{
 			target_distance = shot.distance;
-			shot.transform.SendMessage("Damageminion", damage+20, SendMessageOptions.DontRequireReceiver);
+			shot.transform.SendMessage("Damageminion", damage, SendMessageOptions.DontRequireReceiver);
 		}
 		ani.Play("BowRelease [1]");
 		fire.SetActive(true);
