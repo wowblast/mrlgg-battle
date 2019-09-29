@@ -9,7 +9,7 @@ public class Generatos : MonoBehaviour {
     public static bool start = false;
     public GameObject minion1;
 	public GameObject player1;
-	public bool couroutineStarted = false;
+	public static bool couroutineStarted = false;
 	// Update is called once per frame
 	void Update () {
 
@@ -52,7 +52,7 @@ IEnumerator crear()
 		newminion4.SetActive(true);
 		newminion5.SetActive(true);
 		//float valor = 5;
-        yield return new WaitForSeconds(11f);
+        yield return new WaitForSeconds(eggpoder.nivel/90);
         couroutineStarted = false;
 
 

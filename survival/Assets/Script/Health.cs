@@ -57,13 +57,17 @@ public class Health : MonoBehaviour
 		}
 		if(Input.GetKey("f")&&poder)
 		{
-			poder = false;
+			/*poder = false;
 			act = false;
 			tiempopoder = false;
 			StartCoroutine(Firingpistol());
 			burbuja.texture = noburbuja;
-			StartCoroutine(burbujactiva());
+			StartCoroutine(burbujactiva());*/
+			power();
 		}
+		if(Input.GetKey("x"))			
+			power2();
+		
 
 		internalhealth = currentHealth;
 		// rest-=Tar((int)Time.deltaTime);
@@ -154,6 +158,7 @@ public class Health : MonoBehaviour
 		musica2.SetActive(false);
 		activos = true;
 		generadores.SetActive(true);
+		ActivateGenerators();
 		
 
 
@@ -293,4 +298,27 @@ public class Health : MonoBehaviour
            
         }
     }
+	void ActivateGenerators()
+	{
+		
+		Generatos.couroutineStarted = false;
+		Generadorelemental.couroutineStarted = false;
+		Generadorface.couroutineStarted = false;
+		Generadornerubian.couroutineStarted = false;
+		boss1generator.couroutineStarted = false;
+		generadorboss2.couroutineStarted = false;
+		generadorboss3.couroutineStarted = false;
+		generadorboss4.couroutineStarted = false;
+		generadorm1.couroutineStarted = false;
+		generadorm2.couroutineStarted = false;
+		generadorm3.couroutineStarted = false;
+		generadorm4.couroutineStarted = false;
+
+
+
+		
+
+
+
+	}
 }

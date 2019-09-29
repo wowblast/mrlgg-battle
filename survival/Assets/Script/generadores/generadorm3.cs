@@ -6,7 +6,7 @@ using UnityEngine;
 public class generadorm3 : MonoBehaviour {
     public GameObject minion1;
    
-    public bool couroutineStarted = false;
+    public static bool couroutineStarted = false;
     // Update is called once per frame
     void Update()
     {
@@ -34,7 +34,7 @@ public class generadorm3 : MonoBehaviour {
         newminion1.SetActive(true);
         newminion2.SetActive(true);
 
-        yield return new WaitForSeconds(eggpoder.nivel / 66);
+        yield return new WaitForSeconds(12);
         couroutineStarted = false;
 
 
